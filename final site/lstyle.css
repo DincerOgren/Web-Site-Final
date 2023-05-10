@@ -1,0 +1,44 @@
+body{background: url(loginbackk.jpg) no-repeat;}
+
+
+.kutu{ 
+    float:left;
+    height: auto;
+    width: 600px;
+    color: firebrick;
+    margin:auto;
+    text-align: center;
+    font:bold 25px Castellar;   
+    margin: 0 0 0 400px
+}
+.table{
+    
+    height: auto;
+    width: 400px;
+    margin: 0 0 0 120px;
+    font:100px  Bell MT;
+    
+}
+
+.loginkutu{
+    
+    border: 2px solid #000;
+    width: 500px;
+    height: 150px;
+    font: 15px tahoma;
+    color: black;
+    background:url(logback.jpg) no-repeat;
+    float: left;
+    margin: 50px 0 0 500px;
+    padding: 50px 0 20px 0;
+    
+    
+}  
+
+.buton{
+    
+    margin: 0 0 0 200px;
+    
+}
+        
+        
